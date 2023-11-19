@@ -1,0 +1,31 @@
+P-1 (16/0/15)
+P-2 (18/0/18)
+TURN: 12
+
+OOB 
+
+XXXX - 1.ARMYA
+	XXX - I.CORPS
+		XX - 1.RIFLE DIVISION
+			III - 1.INF
+			III - 2.INF
+		XX - 2.RIFLE DIVISION
+			III - 3.INF
+			III - 4.INF
+			III - 5.INF
+			 II - 1.ART
+			 II - 1.AAA
+
+XXXX - 1.ARMY
+	XXX - I.CORPS
+		XX - 1.INF.DIVISION
+			III - 1.INF
+			III - 2.INF
+		
+
+		XX - 2.INF.DIVISION
+			III - 4.INF
+			III - 5.INF
+			III - 6.INF
+			 II - 2.ART
+

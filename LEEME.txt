@@ -1,0 +1,31 @@
+HexWar_Alpha - Descripción del Juego
+
+Este programa es una interfaz gráfica de usuario (GUI) desarrollada en Python utilizando la biblioteca Tkinter. Proporciona una plataforma interactiva para un juego de estrategia basado en hexágonos.
+
+Funcionalidades:
+1. **Interfaz Gráfica Intuitiva:** La aplicación presenta una ventana principal con un lienzo interactivo que sirve como tablero de juego.
+
+2. **Desplazamiento:** Se puede navegar por el tablero utilizando las teclas WASD o el boton de la rueda del ratón para desplazamiento.
+
+3. **Arrastrar y Soltar:** Los jugadores pueden seleccionar y mover las fichas militares en el tablero utilizando el mouse. Para mover una ficha, simplemente haz clic y arrastra la ficha a la nueva ubicación.
+
+4. **Fichas Personalizadas:** El juego incluye un conjunto de fichas personalizadas para representar unidades militares de dos facciones: Opfor y Blufor.
+
+5. **Guardado y Carga de Partidas:** El juego permite guardar la partida en cualquier momento. Al cerrar el juego, las posiciones de las fichas se guardarán automáticamente para que puedas continuar la partida más tarde.
+
+Instrucciones:
+- Utiliza las teclas WASD/ botón de la rueda del ratón para desplazarte por el tablero.
+- Haz clic en una ficha y arrástrala para moverla a una nueva posición en el tablero.
+- Para guardar tu partida actual y posiciones de las fichas, simplemente cierra la ventana del juego. Al volver a abrir el juego, podrás cargar la partida anterior.
+
+Notas Adicionales:
+- Asegúrate de tener los archivos de imagen ('mapa.png', 'fichas', 'fichas_b' etc.) en la misma carpeta que el programa para que las imágenes se carguen correctamente.
+
+¡Diviértete jugando HexWar_Alpha!
+
+
+Tamaño de exportacion de archivos:
+
+Mapa = exportar a 3500px de ancho
+Fichas = exportar a 72pxx72px
+
